@@ -11,9 +11,14 @@ Was always
 - [Ruby on Rails](https://rubyonrails.org/) backend
 - [Semantic React UI](https://react.semantic-ui.com/) styling
 
+## Features
+- uploads photo of receipt and returns each item and its cost along with the totals and tax
+- allows for edits of costs and calculates tip 
+- assign or split each item between friends 
+
 ## Installation
 Frontend
-1. clone frontend rep and run 'npm install'
+1. clone frontend repo and run 'npm install'
 2. run 'npm start' (will default to localhost:3000)
 
 Backend
