@@ -61,7 +61,7 @@ ActiveRecord::Schema.define(version: 2019_06_11_221229) do
 
   create_table "users", force: :cascade do |t|
     t.string "name"
-    t.string "profile_url", default: "https://res.cloudinary.com/sungchan/image/upload/v1560829909/00-ELASTOFONT-STORE-READY_user-circle-512_bg2kgc.png"
+    t.string "profile_url", default: "https://res.cloudinary.com/sungchan/image/upload/v1560829909/user%20icons/00-ELASTOFONT-STORE-READY_user-circle-512_bg2kgc.png"
     t.string "password"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

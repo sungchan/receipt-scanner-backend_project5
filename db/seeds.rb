@@ -15,6 +15,6 @@ User.create(name: 'Vera Popova', password: '123', profile_url: 'https://res.clou
 
 User.create(name: 'Jeff hWang', password: '123', profile_url: 'https://res.cloudinary.com/sungchan/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1561046536/user%20icons/Screen_Shot_2019-06-20_at_12.01.16_PM_ciykxr.png')
 
-User.create(name: 'Chris Metzger', password: '123', profile_url: 'https://res.cloudinary.com/sungchan/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1560998133/Screen_Shot_2019-06-19_at_10.34.48_PM_xua8pq.png')
+User.create(name: 'Chris Metzger', password: '123', profile_url: 'https://res.cloudinary.com/sungchan/image/upload/v1560998133/user%20icons/Screen_Shot_2019-06-19_at_10.34.48_PM_xua8pq.png')
 
 User.create(name: 'Mike Cheng', password: '123', profile_url: 'https://res.cloudinary.com/sungchan/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1561048055/user%20icons/Screen_Shot_2019-06-20_at_12.02.05_PM_yvyesv.png')
